@@ -1,17 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Form Filler Settings</title>
-    <script src="options.js" defer></script>
-  </head>
-  <body>
-    <h2>Job Form AutoFiller Settings</h2>
-    <label>First Name: <input type="text" id="first_name"></label><br>
-    <label>Last Name: <input type="text" id="last_name"></label><br>
-    <label>Email: <input type="email" id="email"></label><br>
-    <label>Phone: <input type="tel" id="phone"></label><br>
-    <label>Address: <input type="text" id="address"></label><br>
-    <label>LinkedIn: <input type="url" id="linkedin"></label><br>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Form Settings</title>
+    <link rel="stylesheet" href="options.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dangrek&display=swap" rel="stylesheet">  
+</head>
+<body>
+    <h2>Super Duper AutoFiller Settings</h2>
+    <label for="first_name">First Name:</label>
+    <input type="text" id="first_name" placeholder="Enter your first name">
+    
+    <label for="last_name">Last Name:</label>
+    <input type="text" id="last_name" placeholder="Enter your last name">
+    
+    <label for="email">Email:</label>
+    <input type="email" id="email" placeholder="Enter your email">
+    
+    <label for="phone">Phone:</label>
+    <input type="tel" id="phone" placeholder="Enter your phone number">
+    
+    <label for="address">Address:</label>
+    <input type="text" id="address" placeholder="Enter your address">
+    
+    <label for="linkedin">LinkedIn:</label>
+    <input type="url" id="linkedin" placeholder="Enter your LinkedIn profile">
+    
     <button id="save">Save</button>
-  </body>
+
+    <script src="options.js"></script>
+</body>
 </html>

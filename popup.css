@@ -20,7 +20,7 @@ button {
   padding: 10px;
   margin-top: 8px;
   background-color: rgb(18 24 27 / 1);
-  color: #d8dc00;
+  color: #fbfd7f;
   border: solid 1px yellow;
   border-radius: 2px;
   font-size: 14px;
@@ -30,7 +30,6 @@ button {
 }
 
 button:hover {
-  /* background-color: rgb(33, 43, 48); */
   color: #f4bbfb;
   border: solid 1px #e925fe;
 }
