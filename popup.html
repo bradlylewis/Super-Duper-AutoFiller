@@ -10,9 +10,16 @@
   <link href="https://fonts.googleapis.com/css2?family=Dangrek&display=swap" rel="stylesheet">
 </head>
 <body>
-  <button id="fillForm">Fill Form</button>
-  <button id="settings">Settings</button>
-  <h2>Super Duper AutoFiller</h2>
+  <div id="job-site-content">
+    <button id="fillForm">Fill Form</button>
+    <button id="settings">Settings</button>
+    <h2>Super Duper AutoFiller</h2>
+  </div>
+
+  <div id="unsupported-content" style="display: none;">
+    <p>This extension only works on job application sites.</p>
+  </div>
+
+  <script src="popup.js"></script>
 </body>
-<script src="popup.js"></script>
 </html>
