@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(18 24 27 / 1);
+  background: linear-gradient(176deg, rgb(18, 24, 27) 50%);
+  color: yellow;
+  width: 250px;
+  margin-top: 18px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 12px;
+  font-family: "Dangrek", sans-serif;
+  letter-spacing: 1px;
+}
+
+button {
+  width: 80%;
+  padding: 10px;
+  margin-top: 8px;
+  background-color: rgb(18 24 27 / 1);
+  color: #d8dc00;
+  border: solid 1px yellow;
+  border-radius: 2px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: border 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+button:hover {
+  /* background-color: rgb(33, 43, 48); */
+  color: #f4bbfb;
+  border: solid 1px #e925fe;
+}
