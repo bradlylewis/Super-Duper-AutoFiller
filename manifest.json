@@ -4,7 +4,29 @@
   "version": "1.2.0",
   "description": "Fills out job application forms automatically",
   "permissions": ["storage", "scripting", "activeTab"],
-  "host_permissions": ["<all_urls>"],
+  "host_permissions": [
+    "https://*.indeed.com/*",
+    "https://*.linkedin.com/*",
+    "https://*.glassdoor.com/*",
+    "https://*.monster.com/*",
+    "https://*.careerbuilder.com/*",
+    "https://*.ziprecruiter.com/*",
+    "https://*.simplyhired.com/*",
+    "https://*.dice.com/*",
+    "https://*.angel.co/*",
+    "https://*.usajobs.gov/*",
+    "https://*.greenhouse.io/*",
+    "https://*.lever.co/*",
+    "https://*.myworkdayjobs.com/*",
+    "https://*.jobvite.com/*",
+    "https://*.icims.com/*",
+    "https://*.smartrecruiters.com/*",
+    "https://*.taleo.net/*",
+    "https://*.adp.com/*",
+    "https://*.bamboohr.com/*",
+    "https://*.jazzhr.com/*",
+    "https://*.bullhornstaffing.com/*"
+  ],
   "background": {
     "service_worker": "background.js"
   },
@@ -15,6 +37,11 @@
       "48": "icon.png",
       "128": "icon.png"
     }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
   },
   "options_page": "options.html"
 }
