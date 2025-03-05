@@ -6,13 +6,13 @@
 ## 🖼 Screenshots
 
 ### 🔹 Popup UI
-![Popup UI](assets/popup.png)
+![Popup UI](popup.png)
 
 ### 🔹 Popup UI (for when you're not on a job site)
-![Autofill Example](assets/popup_alt.png)
+![Autofill Example](popup_alt.png)
 
 ### 🔹 Options Page (Settings)
-![Options Page](assets/options.png)
+![Options Page](options.png)
 
 ---
 
