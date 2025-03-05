@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Super Duper Auto-filler",
+  "name": "Super Duper AutoFiller",
   "version": "1.2.0",
   "description": "Fills out job application forms automatically",
   "permissions": ["storage", "scripting", "activeTab"],
