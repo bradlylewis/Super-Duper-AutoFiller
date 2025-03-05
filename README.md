@@ -3,6 +3,19 @@
 
 ---
 
+## 🖼 Screenshots
+
+### 🔹 Popup UI
+![Popup UI](assets/popup.png)
+
+### 🔹 Popup UI (for when you're not on a job site)
+![Autofill Example](assets/popup_alt.png)
+
+### 🔹 Options Page (Settings)
+![Options Page](assets/options.png)
+
+---
+
 ## 🔹 Features
 ✅ Autofills forms on major job sites like **Indeed, LinkedIn, Glassdoor, Workday, Greenhouse, Lever, and more.**  
 ✅ **Custom field support** – add your own details.  
