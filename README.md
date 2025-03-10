@@ -101,7 +101,7 @@ This extension works on:
 ---
 
 ## 🙌 Contributing
-Pull requests are welcome! If you have feature suggestions, open an **Issue**.
+Pull requests are welcome! If you have feature suggestions, open an **[Issue](https://github.com/bradlylewis/Super-Duper-AutoFiller/issues)**.
 
 ---
 
