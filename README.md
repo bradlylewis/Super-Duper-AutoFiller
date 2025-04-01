@@ -111,4 +111,4 @@ Pull requests are welcome! If you have feature suggestions, open an **[Issue](ht
 
 ---
 
-### ✅ Ready to Automate Your Job Applications? Install Now! 🚀  
+### ✅ Ready to Automate Your Job Applications? Install Now! 🚀
